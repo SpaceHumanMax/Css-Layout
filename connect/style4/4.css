@@ -1,0 +1,33 @@
+body {
+    background-color: azure;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 1.6em;
+}
+
+#boxes-4 {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: lightsalmon;
+    border-style: groove;
+    padding: auto;
+    border-radius: 10px;
+  }
+  
+  .box-10 {
+    border-style: dashed;
+  }
+  
+  .box-11 {
+    border-style: dashed;
+  }
+  
+  .box-12 {
+    border-style: dashed;
+  }
